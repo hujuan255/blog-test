@@ -1,0 +1,24 @@
+{
+  "posts":[
+    {
+      "id":1,
+      "title":"欢迎来到博客",
+      "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolore earum, vel ad laudantium maiores eum enim libero ratione nobis saepe id error eveniet assumenda sunt deleniti consequatur soluta esse?",
+      "tags":[
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id":2,
+      "title":"有关排名前5的css标签",
+      "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus dolore earum, vel ad laudantium maiores eum enim libero ratione nobis saepe id error eveniet assumenda sunt deleniti consequatur soluta esse?",
+      "tags":[
+        "css",
+        "webdev",
+        "coding"
+      ]
+    }
+  ]
+}

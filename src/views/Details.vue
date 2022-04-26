@@ -21,5 +21,17 @@ export default {
   },
 };
 </script>
-<style lang='less' scoped>
+<style scoped>
+.post{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.post p{
+  color: #444;
+  line-height: 40px;
+  margin-top:40px;
+}
+.pre{
+  white-space: pre-wrap;
+}
 </style>
